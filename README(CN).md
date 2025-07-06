@@ -2,6 +2,7 @@
 - 可以供游戏比赛使用的计分板程序
 # 功能介绍
 - 启动程序后会进入配置界面
+  
 ![image](https://github.com/user-attachments/assets/53ed333a-0ead-40f3-86a8-c8495e6fb5ac)
 ## 基本信息：
 左侧文字：显示在计分板左侧的ID，默认红色
